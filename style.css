@@ -1,5 +1,5 @@
 body {
-  background-image: url(/hotel-background.jpg);
+  background-image: url(hotel-background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   color: white;
@@ -94,18 +94,18 @@ header {
 
 @keyframes animpics {
   0% {
-    background-image: url(/hotel_animation1.jpeg);
+    background-image: url(hotel_animation1.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
   }
   40% {
-    background-image: url(/animation3_gym.jpg);
+    background-image: url(animation3_gym.jpg);
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   80% {
-    background-image: url(/hotel_animation2.jpeg);
+    background-image: url(hotel_animation2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
   }
